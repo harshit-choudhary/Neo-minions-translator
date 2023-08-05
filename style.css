@@ -1,0 +1,49 @@
+*{
+    font-family: 'Kalam', cursive;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#heading{
+    height: 10vh;
+    width: 100%;
+    background-color: #F2C94C;
+    text-align: center;
+}
+#heading h1{
+    padding: 1rem;
+}
+.mid-section{
+    max-width: 450px;
+    margin: auto;
+}
+textarea{
+    height: 18vh;
+    width: 32vw;
+    margin-top: 2rem;
+}
+#translate-btn{
+    display: block;
+    background-color: #F2C94C;
+    border: none;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+h4{
+    margin-top: 1rem;
+}
+#output{
+    border: 1px solid black;
+    height: 10vh;
+    width: 32vw;  
+}
+#bottom{
+    height: 20vh;
+    width: 100%;
+    text-align: center;
+    margin-top: 9.6rem;
+    background-color: #F2C94C;
+    padding: 1rem;
+    background-image: url(1.svg);
+    background-repeat: no-repeat;
+}
